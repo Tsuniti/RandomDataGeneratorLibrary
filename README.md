@@ -1,1 +1,6 @@
-# RandomDataGeneratorLibrary
+На данный момент может генерировать такие значения как: int, double, bool, string.
+Так же можно быстро заполнять листы вышеуказанных типов.
+Для ленивых юзеров установлены значения по умолчанию min и max, но при желании можно их убрать.
+
+Вот пример заполнения стрингового листа:
+![image](https://github.com/Tsuniti/RandomDataGeneratorLibrary/assets/108963330/cb5f5c77-cbdb-48e5-9775-519dfe7cf1da)
